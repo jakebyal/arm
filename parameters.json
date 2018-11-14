@@ -24,7 +24,7 @@
             "value": "3"
         },
         "serverFarmResourceGroup": {
-            "value": "table4jbwebapp2rg"
+            "value": "table4jbwebapprg"
         },
         "skuCode": {
             "value": "P1v2"
